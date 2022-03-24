@@ -1,5 +1,10 @@
-I know Java to a good degree and I fix and make older shit better. 
-I also know ASM. I know multiple languages and one of them are Java and i know other languages like C++ (not very well) and JavaScript and a little bit of Python.
+<h1>Hello!</h1>
+
+I am a Java developer that currently is working on a paid game modification for Minecraft.
+
+I know multiple languages, but I am very good at Java. The languages I know are Java, C# (to a good degree), c++ (learning), JavaScript, HTML.
+If you need help with ASM, or Minecraft Client development just contact me on discord at, (forgot it i will put my discord link here).
+
 
 <!---
 Moinkey2/Moinkey2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
